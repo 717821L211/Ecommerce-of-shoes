@@ -1,0 +1,36 @@
+.pics {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pic-wrapper {
+  margin-right: 10px;
+}
+
+.walkshoe1,
+.product1,
+.casualshoe1,
+.product6,
+.product15,
+.product13,
+.product18,
+.Slipper1,
+.flipflop1{
+  width: 200px;
+}
+
+.button {
+   padding: 10px; 
+   background-color: #111010; 
+   color: #fff; 
+   text-decoration:none;  
+   border-radius :5%;
+}
+.button-shoe{
+    font-size :20px ;   
+}
+
+.button-shoe1{
+    font-size :20px ;
+}

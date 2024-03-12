@@ -1,0 +1,15 @@
+.slider-container {
+    width: 50%;
+    overflow: hidden;
+  }
+  
+  .slider-image {
+    width: 50%;
+    transition: transform 0.5s ease; /* Set the transition property for smooth sliding */
+  }
+  
+  .slider-container:hover .slider-image {
+    transform: translateX(-50%); /* Adjust the percentage based on your needs */
+  }
+  
+  

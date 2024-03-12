@@ -1,0 +1,19 @@
+.container1 {
+  max-width: 1800px; 
+  margin: auto; 
+}
+
+.carousel {
+  border-radius: 10px; 
+  overflow: hidden; 
+}
+
+.carousel-item {
+  text-align: center; 
+}
+
+.carousel img {
+  max-width: 600%; 
+  height: auto; 
+  border-radius: 10px; 
+}

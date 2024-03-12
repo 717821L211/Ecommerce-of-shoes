@@ -1,0 +1,109 @@
+export const  productData=[
+    {
+        id:1,
+        category:"sportsshoes",
+        model:"runningshoes",
+        price:699,
+        imageurl:
+        ["/Mensmodels/sportsshoe1.png","/Mensmodels/sportsshoe1.png","/Mensmodels/sportsshoe1.png","/Mensmodels/sportsshoe1.png"],
+    },
+    {
+        id:2,
+        category:"sportsshoes",
+        model:"runningshoes1",
+        price:699,
+        imageurl:
+        ["/Mensmodels/sportsshoe2.png","/Mensmodels/sportsshoe2.png","/Mensmodels/sportsshoe2.png","/Mensmodels/sportsshoe2.png"],
+    },
+    {
+        id:3,
+        category:"sportsshoes",
+        model:"runningshoes2",
+        price:699,
+        imageurl:
+        ["/Mensmodels/sportsshoe3.png","/Mensmodels/sportsshoe3.png","/Mensmodels/sportsshoe3.png","/Mensmodels/sportsshoe3.png"],
+    },
+    {
+        id:4,
+        category:"sportsshoes",
+        model:"runningshoes3",
+        price:699,
+        imageurl:
+        ["/Mensmodels/sportsshoe4.png","/Mensmodels/sportsshoe4.png","/Mensmodels/sportsshoe4.png","/Mensmodels/sportsshoe4.png"],
+    },
+    
+    //formalshoes 
+
+
+    {
+        id:6,
+        category:"formalshoes",
+        model:"formalshoes1",
+        price:699,
+        imageurl:
+        ["/Mensmodels/formal1.png","/Mensmodels/formal1.2.png","/Mensmodels/formal1.3.png","/Mensmodels/formal1.4.png"],
+    },
+    {
+        id:7,
+        category:"formalshoes",
+        model:"formalshoes2",
+        price:699,
+        imageurl:
+        ["/Mensmodels/formal2.1.png","/Mensmodels/formal2.2.png","/Mensmodels/formal2.3.png","/Mensmodels/formal2.4.png"],
+    },
+    {
+        id:8,
+        category:"formalshoes",
+        model:"formalshoes3",
+        price:699,
+        imageurl:
+        ["/Mensmodels/formal3.1.png","/Mensmodels/formal3.2.png","/Mensmodels/formal3.3.png","/Mensmodels/formal3.4.png"],
+    },
+    {
+        id:9,
+        category:"formalshoes",
+        model:"formalshoes4",
+        price:699,
+        imageurl:
+        ["/Mensmodels/formal4.1.png","/Mensmodels/formal4.2.png","/Mensmodels/formal4.3.png","/Mensmodels/formal4.4.png"],
+    },
+   
+    //Casualshoe
+
+    {
+        id:10,
+        category:"Casualshoe",
+        model:"Casualshoe1",
+        price:699,
+        imageurl:
+        ["/Mensmodels/casual3.1.png","/Mensmodels/casual3.2.png","/Mensmodels/casual3.3.png","/Mensmodels/casual3.4.png"],
+    },
+    {
+        id:11,
+        category:"Casualshoe",
+        model:"Casualshoe2",
+        price:699,
+        imageurl:
+        ["/Mensmodels/casual4.1.png","/Mensmodels/casual4.2.png","/Mensmodels/casual4.3.png","/Mensmodels/casual4.4.png"],
+    },
+    {
+        id:12,
+        category:"Casualshoe",
+        model:"Casualshoe3",
+        price:699,
+        imageurl:
+        ["/Mensmodels/casual5.4.png","/Mensmodels/casual5.2.png","/Mensmodels/casual5.3.png","/Mensmodels/casual5.1.png"],
+    },
+    {
+        id:13,
+        category:"Casualshoe",
+        model:"Casualshoe4",
+        price:699,
+        imageurl:
+        ["/Mensmodels/casual6.1.png","/Mensmodels/casual6.2.png","/Mensmodels/casual6.3.png","/Mensmodels/casual6.4.png"],
+    },
+    
+    
+    
+
+];

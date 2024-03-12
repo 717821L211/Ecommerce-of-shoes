@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+header {
+  background-color: #797980;
+  color: #fff;
+  padding: 1em;
+  text-align: center;
+}
+
+section {
+  max-width: 800px;
+  margin: 2em auto;
+  padding: 1em;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+
+.hidden {
+  display: none;
+}

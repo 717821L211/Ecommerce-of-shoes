@@ -1,0 +1,43 @@
+.container {
+    text-align: center;
+  }
+  
+  h1 {
+    color: #837c7c; 
+    
+  }
+   
+  .button-container {
+    margin-top: 30px;
+  }
+  
+  .button {
+    display: inline-block;
+    padding: 7px 50px;
+    margin: 0 10px;
+    text-decoration: none;
+    color: #000000;
+    background-color: #d0c6c6; 
+    border-radius: 8px;
+    font-weight: bold;
+  }
+  .button-men {
+    background-color: #ee1414; 
+    color: #ffffff;
+
+  }
+  
+  .button-women {
+    background-color: #f005cde0; 
+    color: #ffffff;
+
+  }
+  
+  .button-kids {
+    background-color: #0e22fa;
+    color: #fffcfc;
+    
+  }
+ 
+
+ 
